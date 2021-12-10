@@ -1,0 +1,19 @@
+{
+  "name": "Black Dragon",
+  "symbol": "#KUNN2",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "AX8ufaDjPy1njHhgQE1jkVSD6bLajG96b9U8qMGabacW",
+        "share": 100
+      }
+    ]
+  }
+}

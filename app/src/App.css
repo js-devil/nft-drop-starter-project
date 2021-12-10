@@ -69,6 +69,11 @@
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
+  max-width: 200px;
+  margin: 0 auto;
+
+  background: linear-gradient(270deg, rgb(132, 250, 176), rgb(143, 211, 244)) 0%
+    0% / 400% 400%;
 }
 
 .footer-container {

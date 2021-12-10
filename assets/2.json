@@ -1,0 +1,19 @@
+{
+  "name": "Wooden Darkness",
+  "symbol": "#KUNN3",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "AX8ufaDjPy1njHhgQE1jkVSD6bLajG96b9U8qMGabacW",
+        "share": 100
+      }
+    ]
+  }
+}
